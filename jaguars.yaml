@@ -9,3 +9,5 @@ members:
 여긴 이제 test1 branch 공간입니다.
 
 git add . test입니다.
+
+- 추가된것을 미리 fetch로 확인해볼수있습니다.
