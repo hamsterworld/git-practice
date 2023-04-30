@@ -17,4 +17,8 @@ members:
 
 merge-test
 1
+<<<<<<< HEAD
 2
+=======
+2
+>>>>>>> 42a7832 (merge-test2)
